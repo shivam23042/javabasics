@@ -1,0 +1,63 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "quee",
+            "request": "launch",
+            "mainClass": "quee",
+            "projectName": "javabasics_d7b16481"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "que",
+            "request": "launch",
+            "mainClass": "codeforces.que",
+            "projectName": "javabasics_d7b16481"
+        },
+        {
+            "type": "java",
+            "name": "settingupcamp",
+            "request": "launch",
+            "mainClass": "codeforces.settingupcamp",
+            "projectName": "javabasics_d7b16481"
+        },
+        {
+            "type": "java",
+            "name": "watermelon",
+            "request": "launch",
+            "mainClass": "codeforces.watermelon",
+            "projectName": "javabasics_d7b16481"
+        },
+        {
+            "type": "java",
+            "name": "linkedlist1",
+            "request": "launch",
+            "mainClass": "linkedlist1",
+            "projectName": "javabasics_d7b16481"
+        },
+        {
+            "type": "java",
+            "name": "maths",
+            "request": "launch",
+            "mainClass": "maths",
+            "projectName": "javabasics_d7b16481"
+        },
+        {
+            "type": "java",
+            "name": "start",
+            "request": "launch",
+            "mainClass": "start",
+            "projectName": "javabasics_d7b16481"
+        }
+    ]
+}
